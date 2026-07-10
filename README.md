@@ -85,6 +85,7 @@ As I continue learning and building, this profile will feature:
 ## Connect With Me
 
  LinkedIn: https://www.linkedin.com/in/emihle-cebisa/
+ 
  Discord: emihle_cebisa
 
 Technical Portfolio: https://emihle-cebisa.netlify.app/
