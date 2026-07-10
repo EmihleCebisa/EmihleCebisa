@@ -26,7 +26,7 @@ My Interests include Security Operations (SOC), Linux Administration, Network Se
   - CompTIA PenTest+
   - CompTIA CySA+
   - CompTIA SecurityX
-  - 
+    
 ## Technical Skills
 
 ### Operating Systems
